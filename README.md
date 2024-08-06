@@ -13,7 +13,11 @@ How can we make the hitmapping process more convenient and easier for students?
 
 ## Our research:
 
-Hitmaps have a lot of benefits, like telling a player whether he should dribble the ball into open space more often. However, as this is usually done with pen and paper, it is often messy. Additionally, as the students usually do not have a clipboard, it is difficult to draw properly on the cross, leading to hard-to-read markings. Students also have difficulties keeping this paper with them, often losing it. 
+Our users want a convenient and easy way to make hitmaps during their S&W lessons. They currently use pen and paper, which is very messy and inconvenient as they usually need a clipboard, and even so, it is hard to use a clipboard while standing. They lose their hitmaps if the teacher asks them to keep it, and sometimes they forget to hand it in to the teacher. 
+
+They want an easy way to make and delete markers on a map. They want to be able to save their hitmaps for easy access in the next lesson or to be able to submit them easily. 
+[This](https://csdt.org/static/CSDT_Single_Page/Basketball_Heatmap/src/index.html) is one competitor we have. Our hitmap maker will allow players to mark any place on the map and is more intuitive to use. 
+Another competitor is SIQ’s heatmap maker. Our hitmap maker is more manual but does not need an external device. 
 
 
 ## Our solution:
